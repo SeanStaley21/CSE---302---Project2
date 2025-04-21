@@ -4,6 +4,7 @@
 #include <string>
 #include "CO2EmissionsRecord.h"
 #include "CSVRead.h"
+#include "CSVRead.cpp"
 
 using namespace std;
 
